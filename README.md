@@ -8,7 +8,12 @@
 - 😄 Pronouns: She/Her/They/Them
 - 🔭 I’m currently working on the CompTIA Security + Certification and Archaeology/Ancient History
 - 🌱 I’m currently learning general Cybersecurity and Latin language
-- ⚡ Hobbies: Coding :P, Game Design, Drawing, Video Games, Singing, Fishing
+- ⚡ Hobbies:
+  Game and Graphic Design
+  Drawing
+  Singing
+  Bass
+  Fishing
 
 ## Skills :muscle:
 
