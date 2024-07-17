@@ -1,11 +1,8 @@
 ## ࿐🌊🐋 Doris Morales🐬࿐࿐
-![alt text](https://pbs.twimg.com/media/E3fGN2NX0AQrKfr.jpg)
 
 ## About Me
 
-![alt text](https://i.pinimg.com/originals/9e/cf/f5/9ecff5eabfdbd856d12b142a621f868a.gif)
-
-- 😄 Pronouns: She/Her/They/Them
+- 😄 Pronouns: She/Her
 - 🔭 I’m currently working on the CompTIA Security + Certification and Archaeology/Ancient History
 - 🌱 I’m currently learning general Cybersecurity and Latin language
 - ⚡ Hobbies:
