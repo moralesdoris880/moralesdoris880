@@ -3,10 +3,9 @@
 ## About Me
 
 - 😄 Pronouns: She/Her
-- 🔭 I’m currently working on the CompTIA Security + Certification and Archaeology/Ancient History
-- 🌱 I’m currently learning general Cybersecurity and Latin language
+- 🔭 I’m currently working on my portfolio
 - ⚡ Hobbies:
-  Game and Graphic Design
+  Designing
   Drawing
   Singing
   Bass
